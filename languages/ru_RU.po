@@ -1,0 +1,798 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-07 05:16+0000\n"
+"PO-Revision-Date: 2022-02-14 03:49+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Эта страница не найдена."
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Возможно, попробуйте одну из "
+"ссылок ниже или поиск?"
+
+#: 404.php:34
+msgid "Most Used Categories"
+msgstr "Самые популярные категории"
+
+#. %1$s: smiley
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте посмотреть в ежемесячных архивах. %1$s"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Комментарии: &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "Навигации по коммментариям"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: footer.php:15
+msgid "Keep Updated"
+msgstr "Обновление"
+
+#: footer.php:19
+msgid "Join our Newsletter"
+msgstr "Подписаться на новости"
+
+#: footer.php:33
+msgid "Enter your e-mail address"
+msgstr "Введите ваш e-mail адрес"
+
+#: footer.php:34
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: footer.php:94
+msgid "Back To Top"
+msgstr "Наверх"
+
+#: functions.php:59
+msgid "Primary Menu"
+msgstr "Основное Меню"
+
+#: functions.php:101
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: functions.php:105
+msgid "Famethemes Demo Importer"
+msgstr "Famethemes Демо Импортер"
+
+#: functions.php:137
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+#: functions.php:148
+msgid "WooCommerce Sidebar"
+msgstr "Боковая панель WooCommerce"
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:248
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#. If there are characters in your language that are not
+#. supported by Raleway, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:254
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:335
+msgid "Install Required Plugins"
+msgstr "Установить дополнительные плагины"
+
+#: functions.php:336
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: functions.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: functions.php:338
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: functions.php:339
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Для данного шаблона необходимо наличие следующих плагинов: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:341
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Извините, но у вас нет необходимых разрешений для установки %1$s плагина."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:342
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Следующий плагин необходимо обновить до последней версии, чтобы обеспечить "
+"максимальную совместимость с этой темой: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:343
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Обновление  доступно для: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:344
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "Извините, но у вас нет прав для обновления %1$s плагина."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:345
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий обязательный плагин в настоящее время неактивен: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:346
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий обязательный плагин в настоящее время неактивен: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Извините, вам не разрешено активировать плагин %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:348
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:349
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:350
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] ""
+msgstr[2] ""
+
+#: functions.php:351
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке плагинов"
+
+#: functions.php:352
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+#: functions.php:353
+msgid "The following plugin was activated successfully:"
+msgstr "Следующий плагин был успешно активирован:"
+
+#: functions.php:354
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не принимается. Плагин %1$s уже активирован."
+
+#: functions.php:355
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Плагин не активирован. Для этой темы необходима более высокая версия %s. "
+"Обновите плагин."
+
+#: functions.php:356
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активированы. %1$s"
+
+#: functions.php:357
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору сайта за помощью."
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#. Name of the template
+msgid "Frontpage"
+msgstr "Главная страница"
+
+#. Name of the template
+msgid "Full Width"
+msgstr "На всю ширину"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer-controls.php:406 inc/customizer-controls.php:521
+msgid "Item"
+msgstr "Пункт"
+
+#: inc/customizer-controls.php:506
+msgid "Add an item"
+msgstr "Добавить пункт"
+
+#: inc/customizer-controls.php:637 inc/customizer-controls.php:659
+#: inc/customizer-controls.php:671
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/customizer-controls.php:638
+msgid "Add"
+msgstr "Добавить"
+
+#: inc/customizer-controls.php:638
+msgid "Change"
+msgstr "Изменить"
+
+#: inc/customizer-controls.php:673
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/dashboard.php:130
+#, php-format
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s необходимые действия"
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/dashboard.php:132
+#, php-format
+msgid "OnePress Theme %s"
+msgstr "OnePress Тема %s"
+
+#: inc/dashboard.php:134
+msgid "OnePress Theme"
+msgstr "Тема OnePress"
+
+#: inc/dashboard.php:137
+msgid "OnePress Dashboard"
+msgstr "Панель управления"
+
+#: inc/dashboard.php:157
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome "
+"page</a>"
+msgstr ""
+"Добро пожаловать! Спасибо за выбор %1$s! Чтобы в полной мере насладиться "
+"всем функционалом темы, пожалуйста, посетите нашу <a href=\"%2$s"
+"\">приветственную страницу</a>"
+
+#: inc/dashboard.php:166
+#, php-format
+msgid ""
+"Save time by import our demo data, your website will be set up and ready to "
+"customize in minutes. %s"
+msgstr ""
+"Экономьте время, импортя наши демо-данные, ваш сайт будет настроен и готов к "
+"настройке в течение нескольких минут. %s"
+
+#: inc/dashboard.php:166
+msgid "Import Demo Data"
+msgstr "Импорт демо-данных"
+
+#: inc/dashboard.php:196 inc/dashboard.php:497
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: inc/dashboard.php:218 inc/dashboard.php:519
+msgid "Active Now"
+msgstr "Активный сейчас"
+
+#: inc/dashboard.php:238
+msgid "Details"
+msgstr "Детали"
+
+#: inc/dashboard.php:323
+#, php-format
+msgid "Welcome to OnePress - Version %1s"
+msgstr "Добро пожаловать в OnePress - Версия %1s"
+
+#: inc/dashboard.php:324
+msgid ""
+"OnePress is a creative and flexible WordPress ONE PAGE theme well suited for "
+"business, portfolio, digital agency, product showcase, freelancers websites."
+msgstr ""
+"OnePress является творческим и гибким WordPress ONE PAGE тема хорошо "
+"подходит для бизнеса, портфолио, цифровое агентство, продукт витрина, "
+"фрилансеры веб-сайтов."
+
+#. Name of the theme
+#: inc/dashboard.php:327
+msgid "OnePress"
+msgstr "OnePress"
+
+#: inc/dashboard.php:328
+msgid "Actions Required"
+msgstr "Необходимые действия"
+
+#: inc/dashboard.php:329
+msgid "One Click Demo Import"
+msgstr "Импорт данных"
+
+#: inc/dashboard.php:339
+msgid "Theme Customizer"
+msgstr "Настройка темы"
+
+#: inc/dashboard.php:340
+#, php-format
+msgid ""
+"%s supports the Theme Customizer for all theme settings. Click \"Customize\" "
+"to start customize your site."
+msgstr ""
+"%s поддерживает тематический настраиватель для всех настроек темы. Нажмите "
+"кнопку \"Настроить\", чтобы начать настройку вашего сайта."
+
+#: inc/dashboard.php:342
+msgid "Start Customize"
+msgstr "Начать настройку"
+
+#: inc/dashboard.php:346
+msgid "Theme Documentation"
+msgstr "Документация темы"
+
+#: inc/dashboard.php:347
+#, php-format
+msgid ""
+"Need any help to setup and configure %s? Please have a look at our "
+"documentations instructions."
+msgstr ""
+"Нужна помощь для настройки и настройки %s? Пожалуйста, посмотрите на наши "
+"инструкции по документации."
+
+#: inc/dashboard.php:349
+msgid "OnePress Documentation"
+msgstr "Документация OnePress"
+
+#: inc/dashboard.php:354
+msgid "Having Trouble, Need Support?"
+msgstr "Возникли проблемы, нужна поддержка?"
+
+#: inc/dashboard.php:355
+#, php-format
+msgid ""
+"Support for %s WordPress theme is conducted through FameThemes support "
+"ticket system."
+msgstr "Поддержка %s WordPress проводится через систему поддержки FameThemes."
+
+#: inc/dashboard.php:377
+#, php-format
+msgid "You're using %1$s theme, It's a child theme of OnePress"
+msgstr "Вы используете %1$s тему, Это детская тема OnePress"
+
+#: inc/dashboard.php:379
+msgid ""
+"Child theme uses it’s own theme setting name, would you like to copy setting "
+"data from parent theme to this child theme?"
+msgstr ""
+"Тема ребенка использует его собственное имя установки темы, вы хотел были бы "
+"скопировать устанавливая данные от темы родителя к этой теме ребенка?"
+
+#: inc/dashboard.php:399
+msgid "Copy now"
+msgstr "Копировать сейчас"
+
+#: inc/dashboard.php:402
+msgid "Your settings copied."
+msgstr "Настройки скопированы."
+
+#: inc/dashboard.php:419
+msgid "Recommend Plugins"
+msgstr "Рекомендуемые плагины"
+
+#: inc/dashboard.php:429 inc/dashboard.php:448
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: inc/dashboard.php:436
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr ""
+"Переключите \"Отображение начальной страницы\" на \"Статическая страница\""
+
+#: inc/dashboard.php:438
+msgid ""
+"In order to have the one page look for your website, please go to Customize -"
+"&gt; Static Front Page and switch \"Front page displays\" to \"A static page"
+"\"."
+msgstr ""
+"Для того, чтобы одна страница искать свой сайт, пожалуйста, перейдите на "
+"настройку -'gt; Static Front Page и переключить \"Front Page отображает\" на "
+"\"Статическая страница\"."
+
+#: inc/dashboard.php:441 inc/dashboard.php:465
+msgid "Setup front page displays"
+msgstr "Настройка дисплеев первой страницы"
+
+#: inc/dashboard.php:455
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Установите шаблон страницы главной страницы на \"Frontpage\"."
+
+#: inc/dashboard.php:458
+msgid ""
+"In order to change homepage section contents, you will need to set template "
+"\"Frontpage\" for your homepage."
+msgstr ""
+"Для того, чтобы изменить содержимое раздела домашней страницы, вам нужно "
+"будет установить шаблон \"Frontpage\" для вашей домашней страницы."
+
+#: inc/dashboard.php:472
+msgid "Change homepage page template"
+msgstr "Изменение шаблона страницы домашней страницы"
+
+#: inc/dashboard.php:481
+#, php-format
+msgid "Keep update with %s"
+msgstr "Следите за обновлениями %s"
+
+#: inc/dashboard.php:482
+msgid "Hooray! There are no required actions for you right now."
+msgstr "На данный момент вам ничего не нужно делать."
+
+#: inc/dashboard.php:535
+#, php-format
+msgid "%1$s you will need to install and activate the %2$s plugin first."
+msgstr "%1$s вам нужно будет сначала установить и активировать %2$s плагин."
+
+#: inc/dashboard.php:537
+msgid "Hey."
+msgstr "Эй."
+
+#: inc/dashboard.php:538
+msgid "FameThemes Demo Importer"
+msgstr "FameThemes Демо Импортер"
+
+#: inc/dashboard.php:558
+msgid "Are you sure want to copy ?"
+msgstr "Вы уверены, хотите скопировать?"
+
+#: inc/template-tags.php:73
+msgid "Menu"
+msgstr "﻿Меню"
+
+#: inc/template-tags.php:107
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/template-tags.php:112
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "%s"
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:130 inc/template-tags.php:136
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:132
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#: inc/template-tags.php:138
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#: inc/template-tags.php:144
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-tags.php:144
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: inc/template-tags.php:144
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: inc/template-tags.php:215
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:215
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: inc/template-tags.php:234
+msgid "Post author"
+msgstr "Автор"
+
+#. 1: date, 2: time
+#: inc/template-tags.php:240
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:242
+msgid "Reply"
+msgstr "Ответ"
+
+#: inc/template-tags.php:243
+msgid "Edit"
+msgstr "(Редактировать)"
+
+#: inc/template-tags.php:248
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ждет модерации."
+
+#: inc/template-tags.php:971
+#, php-format
+msgid "Copyright %1$s %2$s %3$s"
+msgstr "Copyright %1$s %2$s %3$s"
+
+#: inc/template-tags.php:973
+#, php-format
+msgid "%1$s theme by %2$s"
+msgstr "%1$s автор %2$s"
+
+#: section-parts/section-about.php:2
+msgid "about"
+msgstr "о нас"
+
+#: section-parts/section-about.php:4
+msgid "About Us"
+msgstr "О нас"
+
+#: section-parts/section-about.php:5 section-parts/section-contact.php:5
+#: section-parts/section-counter.php:5 section-parts/section-gallery.php:5
+#: section-parts/section-news.php:5 section-parts/section-services.php:5
+#: section-parts/section-team.php:5
+msgid "Section subtitle"
+msgstr "Примечание"
+
+#: section-parts/section-contact.php:2
+msgid "contact"
+msgstr "контакты"
+
+#: section-parts/section-contact.php:4
+msgid "Get in touch"
+msgstr "Связаться"
+
+#: section-parts/section-contact.php:48
+#, php-format
+msgid ""
+"You can install %1$s plugin and go to Customizer &rarr; Section: Contact "
+"&rarr; Section Content to show a working contact form here."
+msgstr ""
+"Вы можете установить %1$s плагин и перейти к Customizer → section: Контакт → "
+"раздел Содержание, чтобы показать рабочую контактную форму здесь."
+
+#: section-parts/section-counter.php:2
+msgid "counter"
+msgstr "счетчик"
+
+#: section-parts/section-counter.php:4
+msgid "Our Numbers"
+msgstr "Наши номера"
+
+#: section-parts/section-features.php:2
+msgid "features"
+msgstr "особенности"
+
+#: section-parts/section-features.php:4
+msgid "Features"
+msgstr "Особенности"
+
+#: section-parts/section-features.php:5
+msgid "Why choose Us"
+msgstr "Почему выбрали нас"
+
+#: section-parts/section-gallery.php:2
+msgid "gallery"
+msgstr "галерея"
+
+#: section-parts/section-gallery.php:4
+msgid "Gallery"
+msgstr "Галерея"
+
+#: section-parts/section-gallery.php:37
+msgid "View More"
+msgstr "Подробнее"
+
+#: section-parts/section-hero.php:2
+msgid "hero"
+msgstr "герои"
+
+#: section-parts/section-hero.php:78 section-parts/section-services.php:4
+msgid "Our Services"
+msgstr "Наши услуги"
+
+#: section-parts/section-hero.php:79
+msgid "#services"
+msgstr "#services"
+
+#: section-parts/section-hero.php:80
+msgid "Get Started"
+msgstr "Начать"
+
+#: section-parts/section-hero.php:81
+msgid "#contact"
+msgstr "#контакт"
+
+#: section-parts/section-news.php:2
+msgid "news"
+msgstr "новости"
+
+#: section-parts/section-news.php:4
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: section-parts/section-news.php:8
+msgid "Read Our Blog"
+msgstr "Читать наш блог"
+
+#: section-parts/section-services.php:2
+msgid "services"
+msgstr "услуги"
+
+#: section-parts/section-team.php:2
+msgid "team"
+msgstr "команда"
+
+#: section-parts/section-team.php:4
+msgid "Our Team"
+msgstr "Наша команда"
+
+#: template-parts/content-list.php:38 template-parts/content-page.php:21
+#: template-parts/content-single.php:25 template-parts/content.php:39
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничто не соответствовало вашим условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#. Description of the theme
+msgid ""
+"OnePress is an outstanding creative and flexible WordPress one page theme "
+"well suited for business website, portfolio, digital agency, product "
+"showcase, freelancers and everyone else who appreciate good design. The "
+"theme overall is an elegant and classic one, a fine example of Bootstrap 4 "
+"WordPress theme which compatibility with latest version of WooCommerce. "
+"(Live preview : http://www.famethemes.com/preview/?theme=OnePress)"
+msgstr ""
+"OnePress является выдающимся творческим и гибким WordPress одна страница "
+"тема хорошо подходит для бизнес-сайт, портфолио, цифровое агентство, продукт "
+"витрина, фрилансеры и все остальные, кто ценит хороший дизайн. Тема в целом "
+"является элегантным и классическим, прекрасный пример Bootstrap 4 WordPress "
+"тему, которая совместимость с последней версией WooCommerce. "
+"(Предварительный просмотр в реальном http://www.famethemes.com/preview/?"
+"theme=OnePress)"
+
+#. URI of the theme
+msgid "https://www.famethemes.com/themes/onepress/"
+msgstr "https://www.wptheme.us/2021/04/shablon-onepress/"
+
+#. Author of the theme
+msgid "FameThemes"
+msgstr "WPTheme.us"
+
+#. Author URI of the theme
+msgid "http://www.famethemes.com"
+msgstr "https://www.wptheme.us/"
